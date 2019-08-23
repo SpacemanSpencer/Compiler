@@ -1,0 +1,14 @@
+CLASS Pgm1 {
+CONST M = 13;
+CONST N = 56;
+VAR X, Y, Z;
+
+Y = 97;
+X = M * N + 18 - Y;
+
+Z = M - ( M + N ) * Y;
+Z = Y * ( M / N ) - Y;
+Z = X + ( M - N ) / Y;
+Z = Y / ( M * N ) + Y;
+
+}

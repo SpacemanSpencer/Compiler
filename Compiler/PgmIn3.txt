@@ -1,0 +1,15 @@
+CLASS Pgm3 {
+CONST M = 13;
+CONST N = 56;
+INT X, Y, Z;
+
+Y = 97;
+
+IF ( Y > 50 ) {
+X = M * N - ( 18 - Y ) - M;
+}
+ELSE {
+X = 0;
+}
+
+}

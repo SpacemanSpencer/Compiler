@@ -1,0 +1,35 @@
+mov ax, [13]
+mov [M], ax
+
+mov ax, [56]
+mov [N], ax
+
+mov ax, [97]
+mov [Y], ax
+
+mov ax, [Y]
+cmp ax, [50]
+JLE Label1
+
+mov ax, [M]
+mov [X], ax
+
+mov ax, [M]
+mul ax, [N]
+mov [Temp6], ax
+
+mov ax, [N]
+sub ax, [18]
+mov [Temp7], ax
+
+mov ax, [18]
+sub ax, [Y]
+mov [Temp8], ax
+
+mov ax, [Y]
+sub ax, [M]
+mov [Temp9], ax
+
+mov ax, [0]
+mov [X], ax
+

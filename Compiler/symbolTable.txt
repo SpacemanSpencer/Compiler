@@ -1,0 +1,11 @@
+Symbol	Classification	Value	Address	Segment
+Pgm3	<ProgramName>		0	CS
+M	<constVar>	13	0	DS
+N	<constVar>	56	2	DS
+X	<var>		???	4	DS
+Y	<var>		???	6	DS
+Z	<var>		???	8	DS
+97	<NumLit>	97	10	DS
+50	<NumLit>	50	12	DS
+18	<NumLit>	18	14	DS
+0	<NumLit>	0	16	DS

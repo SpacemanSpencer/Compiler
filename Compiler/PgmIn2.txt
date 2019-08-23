@@ -1,0 +1,8 @@
+CLASS Pgm2 {
+CONST M = 23; 
+CONST N = 30;
+VAR X, Y, Z;
+
+Y = 97;
+X = M / / N - 18 + Y;
+}

@@ -1,0 +1,10 @@
+=,M,13,Temp1
+=,N,56,Temp2
+=,Y,97,Temp3
+>,Y,50,Temp4
+=,X,M,Temp5
+*,M,N,Temp6
+-,N,18,Temp7
+-,18,Y,Temp8
+-,Y,M,Temp9
+=,X,0,Temp10
